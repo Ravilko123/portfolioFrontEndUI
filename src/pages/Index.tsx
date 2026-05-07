@@ -231,9 +231,9 @@ const Index = () => {
       <section id="home" className="relative overflow-hidden">
         <div className="mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:px-6 sm:py-24 lg:grid-cols-[1.2fr_1fr] lg:items-center">
           <div className="animate-fade-up order-2 lg:order-1">
-            <Badge variant="outline" className="mb-5 border-primary/40 bg-primary/10 text-primary">
+            {/* <Badge variant="outline" className="mb-5 border-primary/40 bg-primary/10 text-primary">
               <Sparkles className="mr-1 h-3 w-3" /> Available for new opportunities
-            </Badge>
+            </Badge> */}
             <h1 className="text-4xl font-bold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
               Hi, I'm <span className="gradient-text">Ravi Vishwakarma</span>
             </h1>
