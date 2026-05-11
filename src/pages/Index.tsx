@@ -26,9 +26,10 @@ const experiences = [
     role: "Web Developer",
     period: "Mar 2024 – Present",
     points: [
-      "Lead Angular development for the Nobel House (NH) job portal connecting consultants, candidates, and corporates.",
+      "Worked on the Nobel House (NH) job portal connecting consultants, candidates, and corporates using Angular.",
+      "Contributed to LC project modules and developed features for the Extractor Jobs Extension.",
       "Integrated ChatGPT APIs to extract skills, industries, and experience from job descriptions.",
-      "Architected reusable Angular libraries to accelerate delivery across multiple products.",
+      "Developed reusable Angular components and modules to improve development efficiency across multiple features.",
     ],
   },
   {
