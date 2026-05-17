@@ -220,7 +220,7 @@ const Index = () => {
             <a href="#projects" className="hover:text-foreground transition-colors">Projects</a>
             <a href="#contact" className="hover:text-foreground transition-colors">Contact</a>
           </div>
-          <a href="/Ravi_Vishwakarma_Full_Stack_Developer.pdf" download>
+          <a href="/Ravi_Vishwakarma_FullStackDeveloper_Resume.pdf" download>
             <Button size="sm" className="bg-gradient-to-r from-primary to-accent text-primary-foreground hover:opacity-90">
               <Download className="h-4 w-4" /> Resume
             </Button>
@@ -258,7 +258,7 @@ const Index = () => {
                   <Mail className="h-4 w-4" /> Contact Me
                 </Button>
               </a>
-              <a href="/Ravi_Vishwakarma_Full_Stack_Developer.pdf" download>
+              <a href="/Ravi_Vishwakarma_FullStackDeveloper_Resume.pdf" download>
                 <Button size="lg" variant="ghost">
                   <Download className="h-4 w-4" /> Download Resume
                 </Button>
